@@ -45,8 +45,7 @@ g = 50
 g **= 3  # ini merupakan perpangkatkan dari variabel sebelumnya
 print(g)
 
-print("""\n Ini merupakan bahasan mengenai boolean
-      \n""")
+print("""\n Ini merupakan bahasan mengenai boolean\n""")
 
 """ Boolean merupakan ekspresi yang menyatakan falase atau true dari sebuah/sesuatu"""
 
@@ -60,8 +59,3 @@ print("""\n Ini merupakan bahasan mengenai boolean
 # cara mengecek boolean
 aku = 1
 dia = 2
-
-
-git add .
-git commit -m "intfloatbool"
-git push
