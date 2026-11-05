@@ -60,3 +60,8 @@ print("""\n Ini merupakan bahasan mengenai boolean
 # cara mengecek boolean
 aku = 1
 dia = 2
+
+
+git add .
+git commit -m "intfloatbool"
+git push
